@@ -1,0 +1,11 @@
+body{ background-color: black;
+font-family:'Times New Roman', Times, serif;
+color: aliceblue;}
+.center{text-align: center;
+padding: 10px 10px;}
+img{
+    padding: 30px 5px;
+     width: 200px;
+    height: 200px;
+}
+.container{text-align: justify; padding: 0px 400px;}
